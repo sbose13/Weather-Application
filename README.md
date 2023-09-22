@@ -1,5 +1,8 @@
 # Weather-Application
 
+![pic1](https://github.com/sbose13/Weather-Application/assets/114461661/1145bd64-b6c9-4679-8bbe-9f2cecf83901)
+
+
 Welcome to WeatherWise, your go-to web application for up-to-date weather information from around the world. With a sleek and intuitive interface, WeatherWise provides you with real-time weather data at your fingertips. Whether you're planning a weekend getaway, checking the forecast for your daily commute, or simply curious about the weather in a distant city, WeatherWise has you covered.
 
 Our team of developers has meticulously crafted this application using HTML, CSS, and JavaScript to ensure a seamless user experience. Whether you're accessing WeatherWise on your computer, tablet, or smartphone, you can count on a responsive and visually appealing design that adapts to your device.
@@ -18,3 +21,5 @@ Key Features:
 - **Regular Updates:** We are committed to keeping WeatherWise up to date with the latest technology and weather data sources to ensure the most accurate and reliable forecasts.
 
 WeatherWise is not just a weather app; it's your personal weather companion, helping you make informed decisions about your day, week, or travel plans. So, go ahead and explore the world of WeatherWise, where weather information meets simplicity and style.
+
+**Live Demo : https://superweather.netlify.app/
