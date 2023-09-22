@@ -22,4 +22,4 @@ Key Features:
 
 WeatherWise is not just a weather app; it's your personal weather companion, helping you make informed decisions about your day, week, or travel plans. So, go ahead and explore the world of WeatherWise, where weather information meets simplicity and style.
 
-**Live Demo : https://superweather.netlify.app/
+## Live Demo : https://superweather.netlify.app/
